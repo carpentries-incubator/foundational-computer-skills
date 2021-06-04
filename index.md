@@ -11,7 +11,8 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Access to place downloaded files in appropriate locations
+> Priviledge to install and configure necessary software, usually requires administrator/root access.
 {: .prereq}
 
 {% include links.md %}
